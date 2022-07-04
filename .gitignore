@@ -1,0 +1,12 @@
+#忽略.a文件
+*.a
+
+!lib.a
+
+/TODO
+
+build/
+
+doc/*.txt
+
+doc/**/*.pdf
